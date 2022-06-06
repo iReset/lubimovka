@@ -1,0 +1,8 @@
+.header__divider {
+    display: inline-block;
+    width: 0;
+    margin-top: 11px;
+    height: 50px;
+    border-left: 1px solid #242424;
+    
+}

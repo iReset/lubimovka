@@ -1,0 +1,12 @@
+.header__add-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: FormularLight;
+    margin-left: 17px;
+    margin-right: 20px;
+}
