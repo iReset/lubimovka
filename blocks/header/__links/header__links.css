@@ -7,10 +7,9 @@
     padding: 0;
     margin: 0;
     font-style: normal;
-    font-size: 14px;
-    line-height: 17px;
-    font-family: FormularLight;
-    column-gap: 16px;
-    margin-left: 24px;
-    margin-right: 26px;
+    font-size: 16px;
+    line-height: 18px;
+    column-gap: 2px;
+    margin-left: 17px;
+    margin-right: 19px;
 }
