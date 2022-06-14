@@ -1,0 +1,14 @@
+.header__link_menu:hover {
+
+    border-style: none solid;
+    border-color: #242424;
+    border-radius: 8px;
+    border-width: 1px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.header__link_menu {
+    padding-left: 10px;
+    padding-right: 10px;
+}
